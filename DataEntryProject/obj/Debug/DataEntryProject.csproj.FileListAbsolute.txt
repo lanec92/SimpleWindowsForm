@@ -1,0 +1,10 @@
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\bin\Debug\DataEntryProject.exe.config
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\bin\Debug\DataEntryProject.exe
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\bin\Debug\DataEntryProject.pdb
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\obj\Debug\DataEntryProject.csprojAssemblyReference.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\obj\Debug\DataEntryProject.frmDataEntry.resources
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\obj\Debug\DataEntryProject.Properties.Resources.resources
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\obj\Debug\DataEntryProject.csproj.GenerateResource.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\obj\Debug\DataEntryProject.csproj.CoreCompileInputs.cache
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\obj\Debug\DataEntryProject.exe
+C:\Users\Lanec\Desktop\C# Udemy wDatabase\DataEntryProject\obj\Debug\DataEntryProject.pdb
